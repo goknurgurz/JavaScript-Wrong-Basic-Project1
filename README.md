@@ -181,7 +181,7 @@ Ekran görüntülerini README dosyana da ekleyebilirsin.
 
 ### Ürün Listesi
 
-![Ürün Listesi](images/ekran-1.png)
+![Ürün Listesi](img/1.png)
 
 ### Sepet ve Sipariş Özeti
 
