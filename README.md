@@ -185,7 +185,7 @@ Ekran görüntülerini README dosyana da ekleyebilirsin.
 
 ### Sepet ve Sipariş Özeti
 
-![Sepet ve Sipariş Özeti](images/ekran-2.png)
+![Sepet ve Sipariş Özeti](img/2.png)
 
 ---
 
